@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Polite Parasite</title>
+    <title>Dizytle</title>
     <script src="js/phaser.js"></script>
     <script src="js/main.js"></script>
 
@@ -22,7 +22,7 @@ body
 <body>
 <div id="game"></div>
 <div id="readme">
-<h2>Polite Parasite!</h2>
+<h2>Dizytle</h2>
 <ul>
 
 <li><strong>Use the arrow keys to move around!</strong> </li>
